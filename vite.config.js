@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     sourcemap: true,
   },
+  base: '/node_fs99_fron_xssayy',
 });
